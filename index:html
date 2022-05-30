@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>BitMarket</title>
+        <link rel="stylesheet" href="style.css">
+ 
+    </head>
+    <body>
+        <header>
+            <h1 class="glav"><img class="logo" src="https://image.freepik.com/free-photo/virtual-reality-glasses-on-black-background_101510-16.jpg">Гарнитура </h1>
+        </header>
+        <nav>
+            <a class="nav-link" href="">Гарнитура</a>
+            <a class="nav-link" href="">Игры</a>
+            <a class="nav-link" href="">Настройки и советы</a>
+        </nav>
+        <main>
+            <h1 class="top"><img class ="apple" src ="https://images.wallpaperscraft.ru/image/single/list_chb_chernyj_fon_120307_300x168.jpg"width = 200px; height = 120px/>Профессионалы советуют<img class ="apple2" src ="https://images.wallpaperscraft.ru/image/single/list_chb_chernyj_fon_120307_300x168.jpg"width = 200px; height = 120px/></h1>
+            <section class="info">
+                <article class="tab1">
+                <article class="post2">
+                    <h1>Гарнитура</h1>
+                    <img class="post-img-2" src="https://img.mvideo.ru/Big/50136611bb.jpg" width="400px" height="350px"/>
+                    <p class="post-text">Очки HTC Vive Cosmos Elite (99HART008-00)</p>
+                    <a class="article-but" href="https://www.mvideo.ru/products/ochki-htc-vive-cosmos-elite-99hart008-00-50136611">Подробнее</a>
+                </article>
+                <article class="tab2">
+                <article class="post">
+                    <h1>Гарнитура</h1>
+                    <img class="post-img" src="https://img.mvideo.ru/Pdb/1600005498156b5.jpg" width="400px" height="300px"/>
+                    <p class="post-text">Очки виртуальной реальности HTC VIVE Pro 2 Full Kit</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                <article class="post">
+                    <h1>Гарнитура</h1>
+                    <img class="post-img" src="https://img.mvideo.ru/Big/small_pic/480/40075555bb.jpg" width="400px" height="350px"/>
+                    <p class="post-text">Контроллер HTC для Vive Cosmos Left (99HAPU023-00)</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                <article class="post">
+                    <h1>Гарнитура</h1>
+                    <img class="post-img" src="https://img.mvideo.ru/Big/40075556bb.jpg" width="400px" height="350px"/>
+                    <p class="post-text">Контроллер HTC для Vive Cosmos Right (99HAPU014-00)</p>
+                    <a class="article-but" href="">Подробнее</a>
+                </article>
+                </article>
+                </article>
+            </section>
+        </main>
+    </body>
+</html>
